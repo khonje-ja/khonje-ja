@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Statistician
+I'm a Kinked Statistician
 
 
 ## 🛠 Skills
