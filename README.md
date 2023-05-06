@@ -3,19 +3,15 @@
 
 
 ## 🚀 About Me
-I'm a Kinked Statistician
-
+I'm a 'Kinked' Statistician
 
 ## 🛠 Skills
-1. R Programming.
-2. Python,
-3. Front End Developer
-4. Ms PowerBI
-5. Data Science
-6. Statistics
-
-
-2. HTML, CSS...
+1. R Programming
+2. FrontEnd Developer 
+3. PowerBI Dashboard Developer
+4. Statistics
+5. Development Economics
+6. Enjoy taking up analytical challenges
 
 
 ## Summary of My Journey
@@ -25,8 +21,6 @@ I'm a Kinked Statistician
 🧠 Ms in Economics with Credit
 
 👯‍♀️ Advanced Certificate in Data Science using R
-
-🤔 Currently mastering Python
 
 💬 PowerBI Developer
 
